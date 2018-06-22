@@ -18,3 +18,4 @@ print(yueyue.age)
 yueyue.doHomework()
 
 print('ok')
+print('ok')
