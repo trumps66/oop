@@ -16,3 +16,5 @@ yueyue = PythonStudent()
 print(yueyue.name)
 print(yueyue.age)
 yueyue.doHomework()
+
+print('ok')
